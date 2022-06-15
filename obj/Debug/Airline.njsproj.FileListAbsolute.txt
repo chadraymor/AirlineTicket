@@ -1,0 +1,3 @@
+C:\Users\chadr\source\repos\Airline\Airline\obj\Debug\Airline.njsprojAssemblyReference.cache
+C:\Users\chadr\source\repos\Airline\Airline\obj\Debug\Airline.njsproj.CoreCompileInputs.cache
+C:\Users\chadr\source\repos\Airline\Airline\bin\Microsoft.NodejsTools.WebRole.dll
