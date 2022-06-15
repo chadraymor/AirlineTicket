@@ -1,3 +1,5 @@
+This project is a website application for an psuedo-airline company that books passenegers for selected flights. 
+
 before opening up the app, install node.js from https://nodejs.org/en/download/
 
 then open up a terminal in the server folder and type "node index"
